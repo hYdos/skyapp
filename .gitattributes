@@ -1,3 +1,0 @@
-*.pak filter=lfs diff=lfs merge=lfs -text
-*.pak.* filter=lfs diff=lfs merge=lfs -text
-*.bk2.* filter=lfs diff=lfs merge=lfs -text
