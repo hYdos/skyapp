@@ -2692,7 +2692,7 @@
             <f n="champ_s13_stormbird_bank_lv_pt.pak" s="768120" p="2687" h="E6A5D16F75738651598245DE17079013872586F0"></f>
             <f n="champ_s13_stormbird_bank_v.pak" s="890356" p="2688" h="C192377719BC077F251B45528AF70AF8E86A3BC1"></f>
             <f n="champ_s13_stormbird_body_bank.pak" s="608412" p="2689" h="674D626939E3EAB550CF1D9850271156A0706AE4"></f>
-            <f n="body_template.pak" s="220129" p="2690" h="7914384f17b07ab63429d065dfa1803b1b46db8c"></f>
+            <f n="body_template.pak" s="220129" p="2690" h="7914384F17B07AB63429D065DFA1803B1B46DB8C"></f>
             <f n="body_vampire.pak" s="879680" p="2691" h="C23CA1D8C9E8AB78E18CD821E8F12F67BF59CBA6"></f>
             <f n="champ_s13_vampire_bank_lv_en.pak" s="874884" p="2692" h="D1AFFBEB6CDFF0891F3A3BC123AD53266804D550"></f>
             <f n="champ_s13_vampire_bank_lv_fr.pak" s="663872" p="2693" h="5B6151F3AF38ED02ED038C1153709B1176394AA8"></f>
@@ -2740,7 +2740,7 @@
             <f n="champ_s13_statue_legs_bank.pak" s="579612" p="2735" h="581CE278E7A99E9B520206662B505B9ED010ABD6"></f>
             <f n="legs_stormbird.pak" s="708487" p="2736" h="C94D1FF751444E34A80C3AB5E61A693C8AA2578E"></f>
             <f n="champ_s13_stormbird_legs_bank.pak" s="571296" p="2737" h="B3775776E8C932984269E83E35D2D6558613D322"></f>
-            <f n="legs_template.pak" s="354236" p="2738" h="2b956831b9aee324f4d1fce73de692c79b2ba1ad"></f>
+            <f n="legs_template.pak" s="354236" p="2738" h="2B956831B9AEE324F4D1FCE73DE692C79B2BA1AD"></f>
             <f n="legs_vampire.pak" s="683175" p="2739" h="34914A484CA0822D86CE68A52C97AF7A93008591"></f>
             <f n="champ_s13_vampire_legs_bank.pak" s="898628" p="2740" h="76A11F7F4686E1D169E21C22AAE19CB0D57A3C41"></f>
             <f n="ballchain.pak" s="293942" p="2741" h="6C1A7C72243E9E0C6651CC8E0FCAED83062FBE63"></f>
